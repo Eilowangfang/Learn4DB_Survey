@@ -2,7 +2,7 @@
 Learning based:
 
 SIGMOD'21:
-*Bao: Making Learned Query Optimization Practical
+* Bao: Making Learned Query Optimization Practical
 
 
 
