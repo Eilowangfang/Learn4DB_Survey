@@ -1,5 +1,19 @@
-# Cardinality estimation
+# Query optimization
 Learning based:
+
+SIGMOD'21:
+*Bao: Making Learned Query Optimization Practical
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Hardware For SQ LQuery
