@@ -39,8 +39,10 @@
 ### VLDB'19
 * Pessimistic Cardinality Estimation: Tighter Upper Bounds for Intermediate Join Cardinalities.
 
-
-
+## Learning with samples
+* BlinkML: Efficient Maximum Likelihood Estimation with Probabilistic Guarantees
+* Efficient identification of approximate best configuration of training in large datasets
+* Efficient Join Synopsis Maintenance for Data Warehouse
 
 
 
