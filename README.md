@@ -25,6 +25,8 @@
 * Deep Unsupervised Cardinality Estimation.
 * NeuroCard: One Cardinality Estimator for All Tables.
 
+### VLDB'19
+* Selectivity estimation for range predicates using lightweight models.
 
 
 
