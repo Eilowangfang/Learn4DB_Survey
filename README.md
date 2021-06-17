@@ -8,6 +8,8 @@
 * Towards Enhancing Database Education: Natural Language Generation Meets Query Execution Plans.
 * A Unified Deep Model of Learning from both Data and Queries for Cardinality Estimation.
 * Consistent and Flexible Selectivity Estimation for High-Dimensional Data.
+* Efficient Deep Learning Pipelines for Accurate Cost Estimations Over Large Scale Query Workload.
+* Combining Sampling and Synopses with Worst-Case Optimal Runtime and Quality Guarantees for Graph Pattern Cardinality Estimation.
 
 ### SIGMOD'20
 * Deep learning models for selectivity estimation of multi-attribute queries.
