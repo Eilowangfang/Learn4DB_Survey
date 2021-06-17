@@ -1,4 +1,4 @@
-Literature suvery for hardware for analytical query. PR are welcome.
+Literature survey for learning-based cardinality estimation. PR are welcome.
 
 # Query optimization
 
