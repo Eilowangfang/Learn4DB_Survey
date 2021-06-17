@@ -32,7 +32,10 @@
 ### SIGMOD'21
 * Weighted Distinct Sampling: Cardinality Estimation for SPJ Queries.
 * Combining Aggregation and Sampling (Nearly) Optimally for Approximate Query Processing.
-* 
+
+
+### VLDB'19
+* Pessimistic Cardinality Estimation: Tighter Upper Bounds for Intermediate Join Cardinalities.
 
 
 
