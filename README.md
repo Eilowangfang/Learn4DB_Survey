@@ -1,6 +1,6 @@
-Literature survey for learning-based cardinality estimation. PR are welcome.
+Literature survey for learning4DB. PR are welcome.
 
-# Query optimization
+# Cardinality estimation for Query optimization
 
 ## Learning-based
 ### SIGMOD'21
