@@ -15,7 +15,6 @@ Literature survey for learning4DB. PR are welcome.
 
 ### SIGMOD'20
 * Deep learning models for selectivity estimation of multi-attribute queries.
-* 
 
 
 ### VLDB'21
@@ -29,6 +28,14 @@ Literature survey for learning4DB. PR are welcome.
 
 ### VLDB'19
 * Selectivity estimation for range predicates using lightweight models.
+
+
+### Training queries generation/reduce training cost
+* Efficiently Approximating Selectivity Functions using Low Overhead Regression Models. VLDB, 2020
+* ML-based Cross-Platform Query Optimization. ICDE, 2020
+* Expand your Training Limits! Generating Training Data for ML-based Data Management. SIGMOD, 2021
+
+
 
 
 
