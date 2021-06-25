@@ -1,7 +1,5 @@
 Literature survey for learning4DB. PR are welcome.
 
-# Cardinality estimation for Query optimization
-
 ## Learning-based
 ### SIGMOD'21
 * Bao: Making Learned Query Optimization Practical.
@@ -36,6 +34,13 @@ Literature survey for learning4DB. PR are welcome.
 * Expand your Training Limits! Generating Training Data for ML-based Data Management. SIGMOD, 2021
 
 
+
+# Topic oriented
+
+## Query plan optimization
+* Plan-structured deep neural network models for query performance prediction. VLDB, 2019
+* Neo: A Learned Query Optimizer. VLDB, 2019
+* 
 
 
 
