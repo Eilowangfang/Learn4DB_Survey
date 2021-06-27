@@ -40,6 +40,9 @@ Literature survey for learning4DB. PR are welcome.
 ## Query plan optimization
 * Plan-structured deep neural network models for query performance prediction. VLDB, 2019
 * Neo: A Learned Query Optimizer. VLDB, 2019
+* Deep Reinforcement Learning for Join Order Enumeration. SIGMOD, 2018
+* Learning to Optimize Join Queries With Deep Reinforcement Learning. CoRR, 2018
+* Learning state representations for query optimization with deep reinforcement learning. 2018
 * 
 
 
