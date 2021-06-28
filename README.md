@@ -43,7 +43,8 @@ Literature survey for learning4DB. PR are welcome.
 * Deep Reinforcement Learning for Join Order Enumeration. SIGMOD, 2018
 * Learning to Optimize Join Queries With Deep Reinforcement Learning. CoRR, 2018
 * Learning state representations for query optimization with deep reinforcement learning. 2018
-* 
+* Scalable Multi-Query Execution using Reinforcement Learning. SIGMOD, 2021. 
+* Learning a Partitioning Advisor with Deep Reinforcement Learning. SIGMOD, 2020.
 
 
 
