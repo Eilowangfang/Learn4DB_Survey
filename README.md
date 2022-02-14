@@ -49,13 +49,12 @@ Literature survey for learning4DB. PR are welcome.
 
 
 ## Traditional method
-### SIGMOD'21
-* Weighted Distinct Sampling: Cardinality Estimation for SPJ Queries.
-* Combining Aggregation and Sampling (Nearly) Optimally for Approximate Query Processing.
+* Weighted Distinct Sampling: Cardinality Estimation for SPJ Queries. SIGMOD, 21
+* Combining Aggregation and Sampling (Nearly) Optimally for Approximate Query Processing. SIGMOD, 21
 
 
-### VLDB'19
-* Pessimistic Cardinality Estimation: Tighter Upper Bounds for Intermediate Join Cardinalities.
+* Pessimistic Cardinality Estimation: Tighter Upper Bounds for Intermediate Join Cardinalities. VLDB'19
+
 
 ## Learning with samples
 * BlinkML: Efficient Maximum Likelihood Estimation with Probabilistic Guarantees
