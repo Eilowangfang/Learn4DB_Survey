@@ -20,6 +20,7 @@ QueryFormer: a tree transformer model for query plan representation. VLDB, 2022
 ### VLDB'21
 * Astrid: Accurate Selectivity Estimation for String Predicates using Deep Learning.
 * Are We Ready For Learned Cardinality Estimation?
+* FLAT: fast, lightweight and accurate method for cardinality estimation
 
 ### VLDB'20
 * Efficiently Approximating Selectivity Functions using Low Overhead Regression Models.
