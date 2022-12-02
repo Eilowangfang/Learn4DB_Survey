@@ -28,13 +28,6 @@ Literature survey for learning4DB. PR are welcome.
 * Selectivity estimation for range predicates using lightweight models.
 
 
-### Training queries generation/reduce training cost
-* Efficiently Approximating Selectivity Functions using Low Overhead Regression Models. VLDB, 2020
-* ML-based Cross-Platform Query Optimization. ICDE, 2020
-* Expand your Training Limits! Generating Training Data for ML-based Data Management. SIGMOD, 2021
-
-
-
 ### ICDE'22
 A Resource-Aware Deep Cost Model for Big Data Query Processing. ICDE, 2022
 
@@ -50,6 +43,12 @@ A Resource-Aware Deep Cost Model for Big Data Query Processing. ICDE, 2022
 * Learning state representations for query optimization with deep reinforcement learning. 2018
 * Scalable Multi-Query Execution using Reinforcement Learning. SIGMOD, 2021. 
 * Learning a Partitioning Advisor with Deep Reinforcement Learning. SIGMOD, 2020.
+
+
+### Training queries generation/reduce training cost
+* Efficiently Approximating Selectivity Functions using Low Overhead Regression Models. VLDB, 2020
+* ML-based Cross-Platform Query Optimization. ICDE, 2020
+* Expand your Training Limits! Generating Training Data for ML-based Data Management. SIGMOD, 2021
 
 
 
