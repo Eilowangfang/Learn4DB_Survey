@@ -35,6 +35,11 @@ Literature survey for learning4DB. PR are welcome.
 
 
 
+### ICDE'22
+A Resource-Aware Deep Cost Model for Big Data Query Processing. ICDE, 2022
+
+
+
 # Topic oriented
 
 ## Query plan optimization
