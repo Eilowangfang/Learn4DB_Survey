@@ -14,6 +14,8 @@ Literature survey for learning4DB. PR are welcome.
 ### SIGMOD'20
 * Deep learning models for selectivity estimation of multi-attribute queries.
 
+### VLDB'22
+QueryFormer: a tree transformer model for query plan representation. VLDB, 2022
 
 ### VLDB'21
 * Astrid: Accurate Selectivity Estimation for String Predicates using Deep Learning.
